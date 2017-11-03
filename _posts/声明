@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      GCD 在 Swift 中的用法
+title:      声明
 subtitle:   
-date:       2017-10-04
+date:       2017-11-03
 author:     BY
 header-img: img/home-bg-art.jpg
 catalog: true
 tags:
-    - iOS
+    - 声明
     - Swift
     - GCD
 ---
